@@ -47,7 +47,7 @@ Este projeto foi desenvolvido como um teste de habilidades em Python, seguindo u
 Este projeto foi construído seguindo estritamente os requisitos do teste para tutores de Python, utilizando apenas as seguintes bibliotecas:
 **PgZero** 
 
-A arquitetura do código é orientada a objetos, com classes customizadas para o `Player`, `Enemy` e `Coin`, conforme solicitado[cite: 25, 26]. [cite_start]Todo o código foi escrito de forma independente e segue as convenções do PEP8.
+A arquitetura do código é orientada a objetos, com classes customizadas para o `Player`, `Enemy` e `Coin`, conforme solicitado. Todo o código foi escrito de forma independente e segue as convenções do PEP8.
 
 ### Estrutura do Projeto
 ```
